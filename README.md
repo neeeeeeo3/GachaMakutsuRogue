@@ -6,7 +6,7 @@ Unityで制作中の2Dローグライク防衛ゲームのプロトタイプで�
 
 ## Play Demo
 
-itch.ioのURLをここに貼る
+https://neeeeeeo3.itch.io/gacha-makutsu-rogue
 
 ## 概要
 
